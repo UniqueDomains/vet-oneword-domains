@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.VET one word domains]
 | abatic.vet     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.vet    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.vet   | available | 50       | 1%     | 8      |           |         |         |
-| abc.vet        | available | 102      | 41%    | 3      |           |         |         |
+| abc.vet        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.vet  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.vet  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.vet | available | 56       | 1%     | 10     |           |         |         |
