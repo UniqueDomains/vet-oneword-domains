@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .vet one-word domains from Unique 
 
 **Public extract:** 9,290 rows · **Live catalog:** 9,290 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/vet`  
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | hotel.vet    | premium   | $260      | $260          | 70             | 45     | 5      | namecheap        |
 | event.vet    | available | $52.98    | —             | 96             | 44     | 5      | namecheap        |
 | earth.vet    | resell    | —         | —             | 62             | 43     | 5      | GoDaddy.com, LLC |
-| food.vet     | premium   | $128.70   | $128.70       | 94             | 44     | 4      | namecheap        |
+| mix.vet      | premium   | $123.75   | $123.75       | 66             | 45     | 3      | name.com         |
 | nice.vet     | available | $50.99    | $54.99        | 86             | 44     | 4      | name.com         |
 | great.vet    | resell    | —         | —             | 140            | 40     | 5      | 1API GmbH        |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VET One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VET One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
