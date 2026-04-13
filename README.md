@@ -76,13 +76,13 @@ print(df.head())
 | creator.vet  | available | $50.99    | $54.99        | 70             | 45     | 7      | name.com         |
 | auto.vet     | resell    | —         | —             | 68             | 47     | 4      | Dynadot Inc      |
 | law.vet      | premium   | $780      | $780          | 82             | 46     | 3      | namecheap        |
-| forge.vet    | available | $50.99    | $54.99        | 62             | 45     | 5      | name.com         |
+| event.vet    | available | $52.98    | —             | 96             | 44     | 5      | namecheap        |
 | you.vet      | resell    | —         | —             | 74             | 44     | 3      | Dynadot Inc      |
 | hotel.vet    | premium   | $260      | $260          | 70             | 45     | 5      | namecheap        |
-| event.vet    | available | $52.98    | —             | 96             | 44     | 5      | namecheap        |
+| nice.vet     | available | $50.99    | $54.99        | 86             | 44     | 4      | name.com         |
 | earth.vet    | resell    | —         | —             | 62             | 43     | 5      | GoDaddy.com, LLC |
 | mix.vet      | premium   | $123.75   | $123.75       | 66             | 45     | 3      | name.com         |
-| nice.vet     | available | $50.99    | $54.99        | 86             | 44     | 4      | name.com         |
+| pop.vet      | available | $50.99    | $54.99        | 82             | 44     | 3      | name.com         |
 | great.vet    | resell    | —         | —             | 140            | 40     | 5      | 1API GmbH        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
