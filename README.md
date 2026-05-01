@@ -1,10 +1,10 @@
-# Available .VET One-Word Domains (11,816)
+# Available .VET One-Word Domains (12,208)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C816%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C208%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,816 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,208 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,816 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,208 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/vet`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| prompts.vet      | available | $41.99    | $41.99        | 54             | 39     | 7      | namesilo         |
+| neuroscience.vet | available | $50.99    | —             | 80             | 37     | 12     | name.com         |
 | agents.vet       | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC |
 | jobs.vet         | premium   | $1,250    | —             | 79             | 42     | 4      | name.com         |
-| neuroscience.vet | available | $50.99    | —             | 80             | 37     | 12     | name.com         |
-| farms.vet        | resell    | —         | —             | 54             | 16     | 5      | GoDaddy.com, LLC |
-| partners.vet     | premium   | $1,250    | —             | 61             | 32     | 8      | name.com         |
 | events.vet       | available | $50.99    | —             | 68             | 37     | 6      | name.com         |
-| videos.vet       | premium   | $123.75   | —             | 52             | 30     | 6      | name.com         |
+| partners.vet     | premium   | $1,250    | —             | 61             | 32     | 8      | name.com         |
 | tokens.vet       | available | $41.99    | $41.99        | 51             | 36     | 6      | namesilo         |
-| SanDiego.vet     | premium   | $1,107    | $1,107        | 74             | 29     | 9      | namesilo         |
+| videos.vet       | premium   | $123.75   | —             | 52             | 30     | 6      | name.com         |
 | tickets.vet      | available | $41.99    | $41.99        | 64             | 34     | 7      | namesilo         |
-| toys.vet         | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo         |
+| SanDiego.vet     | premium   | $1,107    | $1,107        | 74             | 29     | 9      | namesilo         |
 | trends.vet       | available | $50.99    | —             | 60             | 32     | 6      | name.com         |
-| investors.vet    | premium   | $82.50    | —             | 60             | 23     | 9      | name.com         |
+| toys.vet         | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo         |
 | slots.vet        | available | $41.99    | $41.99        | 49             | 31     | 5      | namesilo         |
 | designs.vet      | premium   | $1,250    | —             | 72             | 21     | 7      | name.com         |
 | commonground.vet | available | $50.99    | —             | 74             | 28     | 13     | name.com         |
-| dads.vet         | premium   | $118.80   | $118.80       | 60             | 17     | 4      | namesilo         |
-| gems.vet         | available | $41.99    | $41.99        | 70             | 28     | 4      | namesilo         |
-| businesses.vet   | premium   | $123.75   | —             | 60             | 12     | 10     | name.com         |
+| clinics.vet      | premium   | $1,107    | $1,107        | 56             | 12     | 7      | namesilo         |
+| destination.vet  | available | $50.99    | —             | 90             | 25     | 11     | name.com         |
+| LongBeach.vet    | premium   | $92.40    | $92.40        | 62             | 11     | 10     | namecheap        |
+| chem.vet         | available | $50.99    | —             | 74             | 24     | 4      | name.com         |
+| boats.vet        | available | $50.99    | —             | 52             | 24     | 5      | name.com         |
+| coupons.vet      | available | $41.99    | $41.99        | 52             | 24     | 7      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,816 live domains                              |
+| 1,000-row public sample | 12,208 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VET One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VET One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
