@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vet one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,211 domains · **Median ask:** $55.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/vet`  
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | agents.vet       | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC |
 | jobs.vet         | premium   | $1,250    | —             | 79             | 42     | 4      | name.com         |
 | events.vet       | available | $50.99    | —             | 68             | 37     | 6      | name.com         |
-| partners.vet     | premium   | $1,250    | —             | 61             | 32     | 8      | name.com         |
+| partners.vet     | premium   | $1,250    | —             | 61             | 31     | 8      | name.com         |
 | tokens.vet       | available | $41.99    | $41.99        | 51             | 36     | 6      | namesilo         |
 | videos.vet       | premium   | $123.75   | —             | 52             | 30     | 6      | name.com         |
 | tickets.vet      | available | $41.99    | $41.99        | 64             | 34     | 7      | namesilo         |
@@ -82,8 +82,8 @@ print(df.head())
 | slots.vet        | available | $41.99    | $41.99        | 49             | 31     | 5      | namesilo         |
 | designs.vet      | premium   | $1,250    | —             | 72             | 21     | 7      | name.com         |
 | commonground.vet | available | $50.99    | —             | 74             | 28     | 13     | name.com         |
-| clinics.vet      | premium   | $1,107    | $1,107        | 56             | 12     | 7      | namesilo         |
-| destination.vet  | available | $50.99    | —             | 90             | 25     | 11     | name.com         |
+| LongBeach.vet    | premium   | $92.40    | $92.40        | 62             | 12     | 10     | namecheap        |
+| destination.vet  | available | $50.99    | —             | 90             | 24     | 11     | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VET One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VET One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
