@@ -1,10 +1,10 @@
-# Available .VET One-Word Domains (12,211)
+# Available .VET One-Word Domains (12,212)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C211%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C212%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .vet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,211 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,212 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,211 domains · **Median ask:** $55.75 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,212 domains · **Median ask:** $56.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vet`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vet`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VET one-word domain c
 
 ### Files
 
-- `vet.csv` — public CSV extract (1,000 rows)
-- `vet.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vet.csv`, public CSV extract (1,000 rows)
+- `vet.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| barup.vet        | available | $50.99    | —             | 82             | 2      | 6      | name.com         |
-| forces.vet       | available | $50.99    | —             | 82             | 12     | 6      | name.com         |
-| dogsit.vet       | available | $50.99    | —             | 96             | 2      | 6      | name.com         |
-| hangon.vet       | available | $50.99    | —             | 82             | 6      | 7      | name.com         |
-| neuroscience.vet | available | $50.99    | —             | 80             | 37     | 12     | name.com         |
-| agents.vet       | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC |
-| jobs.vet         | premium   | $1,250    | —             | 79             | 42     | 4      | name.com         |
-| events.vet       | available | $50.99    | —             | 68             | 37     | 6      | name.com         |
-| partners.vet     | premium   | $1,250    | —             | 61             | 31     | 8      | name.com         |
-| tokens.vet       | available | $41.99    | $41.99        | 51             | 36     | 6      | namesilo         |
-| videos.vet       | premium   | $123.75   | —             | 52             | 30     | 6      | name.com         |
-| tickets.vet      | available | $41.99    | $41.99        | 64             | 34     | 7      | namesilo         |
-| SanDiego.vet     | premium   | $1,107    | $1,107        | 74             | 29     | 9      | namesilo         |
-| trends.vet       | available | $50.99    | —             | 60             | 32     | 6      | name.com         |
-| toys.vet         | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo         |
-| slots.vet        | available | $41.99    | $41.99        | 49             | 31     | 5      | namesilo         |
-| designs.vet      | premium   | $1,250    | —             | 72             | 21     | 7      | name.com         |
-| commonground.vet | available | $50.99    | —             | 74             | 28     | 13     | name.com         |
-| LongBeach.vet    | premium   | $92.40    | $92.40        | 62             | 12     | 10     | namecheap        |
-| destination.vet  | available | $50.99    | —             | 90             | 24     | 11     | name.com         |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| btw.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| auto.vet    | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                |
+| add.vet     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| dry.vet     | available | $50.99    | $54.99        | high           | low    | 3      | name.com                   |
+| Katy.vet    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| bce.vet     | premium   | $35.40    | $35.40        | medium         | low    | 3      | namesilo                   |
+| dvd.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| senior.vet  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC           |
+| dad.vet     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                   |
+| ego.vet     | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo                   |
+| express.vet | resell    | —         | —             | high           | low    | 7      | Squarespace Domains II LLC |
+| ice.vet     | premium   | $118.80   | $118.80       | medium         | medium | 3      | namesilo                   |
+| gal.vet     | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo                   |
+| ink.vet     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                   |
+| god.vet     | available | $41.99    | $41.99        | high           | medium | 3      | namesilo                   |
+| kid.vet     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| hug.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| law.vet     | premium   | $780      | $780          | high           | medium | 3      | namecheap                  |
+| jot.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| map.vet     | premium   | $520      | $520          | high           | medium | 3      | namecheap                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,211 live domains                        |
+| 1,000-row public sample | 12,212 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on .vet domains. It includes broad dictionary words, short coined terms, and mixed-use names such as tips.vet, girls.vet, finals.vet, and forces.vet. For founders, the main question is whether a name feels credible, memorable, and specific enough for a veterinary use case. For investors, the key test is whether the ask leaves room for a sensible resale outcome in a niche extension. The median ask is 55.75, which keeps price discipline important: prioritize names that are easy to read, easy to say, and clearly compatible with the .vet ending.
+This set of one-word .vet domains blends pet-care and veterinary-adjacent terms — like dogsit.vet and dogsick.vet — with unrelated, brandable words such as letitbe.vet, gearup.vet, and weddingcake.vet. With 12,212 domains matching this profile and a median asking price near $56, the extension offers an accessible pool for both niche pet-brand naming and general one-word branding, updated daily as new names become available.
 
-- Focus on names that fit veterinary use without explanation
-- Short, clear words usually reduce hesitation and regret
-- At 55.75 median ask, weak-fit names are easier to skip
-- Check for trademark risk in distinctive brand-like terms
+- 12,212 one-word .vet domains available now
+- Median asking price near $56 across this set
+- Mix of pet-care terms and generic brandable words
+- Short, memorable names for founders and investors alike
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VET One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VET One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
