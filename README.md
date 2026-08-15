@@ -1,10 +1,10 @@
-# Available .VET One-Word Domains (15,332)
+# Available .VET One-Word Domains (15,728)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C332%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C728%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,332 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,728 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,332 domains · **Median ask:** $51.80 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 15,728 domains · **Median ask:** $51.59 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-08-14
+**Last updated:** 2026-08-15
 **Canonical page:** `https://unique.domains/domains/tld/vet`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| action.vet  | available | $41.99    | $41.99        | high           | medium | 6      | namesilo                   |
 | btw.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
 | auto.vet    | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                |
 | add.vet     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
@@ -83,7 +84,6 @@ print(df.head())
 | hug.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
 | law.vet     | premium   | $780      | $780          | high           | medium | 3      | namecheap                  |
 | jot.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
-| map.vet     | premium   | $520      | $520          | high           | medium | 3      | namecheap                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,332 live domains                        |
+| 1,000-row public sample | 15,728 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VET One-Word Domains*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VET One-Word Domains*. Version 2026-08-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
