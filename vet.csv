@@ -35,7 +35,7 @@ d2f45430-3855-4645-9cd6-792217f14e7d,corona.vet,premium,78.54,78.54,high,medium,
 c157657e-ba28-4101-b264-389643e663d5,closethedoor.vet,available,41.99,41.99,high,low,14,namesilo,,,
 5767d02b-1263-4a78-9e67-40c0fb253e6f,streetcred.vet,available,50.99,,medium,low,11,name.com,,,
 ec2e77d2-69c5-4ce7-b64d-7c1810ad80cf,rowingboat.vet,available,41.99,41.99,high,low,11,namesilo,,,
-c6824693-4a62-4880-b949-396f2d46108d,accredited.vet,available,50.99,54.99,medium,low,10,name.com,,,
+c6824693-4a62-4880-b949-396f2d46108d,accredited.vet,available,41.99,41.99,low,low,10,namesilo,,,21/09/2026 15:54
 b31a7de4-0e25-43d6-9ef1-b5aa482f9199,proactive.vet,available,41.99,41.99,high,low,9,namesilo,,,
 c8a484eb-8271-4596-a48d-c64c0a47edec,topic.vet,available,41.99,41.99,high,low,5,namesilo,,,
 91860563-cb29-4db4-ad47-22fde3954f69,developing.vet,available,50.99,54.99,high,low,10,name.com,,,
@@ -65,7 +65,7 @@ c341e2cd-373d-42f6-b9a1-c65e3c833102,adidas.vet,available,41.99,41.99,high,low,6
 4663bcd3-c234-481d-8200-bfc6dd8e979c,mothahfucker.vet,available,41.99,41.99,medium,low,12,namesilo,,,
 b41b4302-3ba6-485a-8c9b-b36ed3ee8af0,preventive.vet,premium,250,250,high,low,10,name.com,,,
 8c5d977f-bbe9-457e-becf-1158ea2b177b,supermarket.vet,available,41.99,41.99,high,low,11,namesilo,,,
-832d84ff-74ed-4dda-85a4-bd2f993c2aad,fifteen.vet,available,50.99,54.99,high,low,7,name.com,,,
+832d84ff-74ed-4dda-85a4-bd2f993c2aad,fifteen.vet,available,41.99,41.99,medium,low,7,namesilo,,,21/09/2026 11:44
 6dcbb6c3-f0d0-4f05-a5cd-5914d8da9f8b,offhanded.vet,available,43.98,52.98,low,low,9,namecheap,,,
 6149e814-1c25-4781-9c4c-362a67495761,olympics.vet,available,41.99,41.99,medium,low,8,namesilo,,,
 4d084a89-c45f-48ef-82d5-f83b1ba27949,teamup.vet,available,50.99,,high,low,7,name.com,,,
@@ -115,10 +115,10 @@ aeab14df-d2b5-43db-b3ef-ca9a6e3dd80e,sham.vet,available,41.99,41.99,low,low,4,na
 c5689fe3-f51f-46ad-aea5-73d6d4d890de,reserve.vet,available,41.99,41.99,low,low,7,namesilo,,,06/08/2026 09:16
 51ff5174-5af6-4979-84b1-2c59d39643cc,jeep.vet,available,,,medium,low,4,,,,
 f31b0e32-27b0-45fd-8229-dd99bb6238fe,bastioned.vet,available,41.99,41.99,low,low,9,namesilo,,,09/08/2026 00:12
-2bf9fe01-8ac0-4add-b855-65b57e3ea628,adaptive.vet,available,50.99,54.99,high,low,8,name.com,,,
+2bf9fe01-8ac0-4add-b855-65b57e3ea628,adaptive.vet,available,41.99,41.99,medium,low,8,namesilo,,,21/09/2026 16:55
 67e7e922-e5fb-4668-9d8e-161ad7554e2b,question.vet,available,41.99,41.99,high,low,8,namesilo,,,
 93db199a-68ec-49c1-8e40-f702bffc3b0b,indianajones.vet,available,50.99,,high,low,13,name.com,,,
-8278e96b-9ad0-490e-bd3d-f7b33f988f8d,before.vet,available,50.99,54.99,high,low,6,name.com,,,
+8278e96b-9ad0-490e-bd3d-f7b33f988f8d,before.vet,available,41.99,41.99,medium,low,6,namesilo,,,21/09/2026 23:34
 e781b10b-106e-4a32-acae-58ab2103ab34,asterisked.vet,available,41.99,41.99,low,low,10,namesilo,,,07/08/2026 08:47
 7d9570d8-64c9-4b00-9d82-23362059166d,glad.vet,available,41.99,41.99,high,low,4,namesilo,,,
 06c58b63-d911-4ca7-bcec-213cbfb3213f,disturb.vet,available,41.99,41.99,high,low,7,namesilo,,,
@@ -176,7 +176,7 @@ b4b4e670-15f5-4be0-bfa6-e75711c30d61,batman.vet,available,41.99,41.99,high,low,6
 96ff77fe-3b18-49ad-815c-c6bd4a9d385a,newspaper.vet,premium,118.8,118.8,high,low,9,namesilo,,,
 a54d47cf-4ad1-4347-9d31-6e711d08a932,alkalizer.vet,available,41.99,41.99,low,low,9,namesilo,,,
 87b55ea9-39ae-439d-9c05-cfe716cc2b4a,garret.vet,available,41.99,41.99,low,low,6,namesilo,,,07/08/2026 15:51
-98fc77aa-3eff-4d41-84e5-a96d5a678a54,riveting.vet,available,50.99,54.99,high,low,8,name.com,,,
+98fc77aa-3eff-4d41-84e5-a96d5a678a54,riveting.vet,available,43.98,52.98,medium,low,8,namecheap,,,21/09/2026 15:09
 bd3df7c7-e3bd-4d29-a66d-0d62ea21bbe5,jerky.vet,available,41.99,41.99,low,low,5,namesilo,,,06/08/2026 22:03
 d0f2a53b-0939-452e-8d3c-6560823074de,oldhat.vet,available,41.99,41.99,low,low,7,namesilo,,,08/08/2026 11:01
 cef99b38-0be4-4571-94ac-89b42f52eb6a,limit.vet,available,41.99,41.99,high,low,5,namesilo,,,
@@ -198,7 +198,7 @@ eba4b838-5618-44d2-9ec0-daa0804f994f,lowback.vet,available,41.99,41.99,medium,lo
 0f4a418d-4441-417c-b57d-08e356fffa54,conform.vet,available,41.99,41.99,high,low,7,namesilo,,,
 99715e76-0e12-40e7-965e-6b9978febda6,antemortem.vet,available,41.99,41.99,low,low,10,namesilo,,,
 7ff7d5f3-cd7b-44a6-aee5-c92a204f4851,sob.vet,available,41.99,41.99,low,low,3,namesilo,,,08/08/2026 23:48
-307dcba3-97ea-4104-af66-aa0063b0fdbe,adjusted.vet,available,50.99,54.99,high,low,8,name.com,,,
+307dcba3-97ea-4104-af66-aa0063b0fdbe,adjusted.vet,available,41.99,41.99,medium,low,8,namesilo,,,21/09/2026 18:42
 97bd8080-80dd-4f4d-ba32-97eff9fbbab6,yeasty.vet,available,41.99,41.99,low,low,6,namesilo,,,08/08/2026 19:56
 e6a385a7-2772-42df-b164-770a68cc1ad8,shoutout.vet,available,50.99,,medium,low,9,name.com,,,
 9efbf19f-3b2f-4e95-bf01-00d819243274,knockknock.vet,available,50.99,,high,low,11,name.com,,,
@@ -217,7 +217,7 @@ a8a2a1a3-8d18-475b-addb-97d0db9c027a,aortic.vet,available,41.99,41.99,low,low,6,
 e0958f64-d8f6-4339-a9ad-27a931bbe987,law.vet,premium,780,780,high,medium,3,namecheap,,,
 47ea5d17-7415-48c3-9a0e-192b473a8c5b,processed.vet,available,41.99,41.99,medium,low,9,namesilo,,,19/09/2026 13:08
 6fdfc146-9568-4661-bbf0-55a7b0483b69,occur.vet,available,41.99,41.99,high,low,5,namesilo,,,
-26e73894-2ebc-487e-832e-5a7f9e772847,accessory.vet,available,50.99,54.99,high,low,9,name.com,,,
+26e73894-2ebc-487e-832e-5a7f9e772847,accessory.vet,available,43.98,52.98,medium,low,9,namecheap,,,21/09/2026 15:35
 a4a3a56c-b070-460b-8410-9adccffcda0b,astrocytic.vet,available,41.99,41.99,low,low,10,namesilo,,,07/08/2026 10:06
 ebc6c0a7-ce4a-474f-93cd-5c92c93b6c16,agonising.vet,available,41.99,41.99,low,low,9,namesilo,,,
 4ed4b9d0-90cd-4a6a-bd51-aea563114222,tks.vet,available,41.99,41.99,high,low,3,namesilo,,,
@@ -268,7 +268,7 @@ f9fd7011-201f-45c0-b127-7750108531f2,proclaim.vet,available,41.99,41.99,high,low
 1ffbb47f-7cad-4a15-84f4-6fec7a4f4da8,pokeabout.vet,available,41.99,41.99,low,low,10,namesilo,,,
 150439e4-a08a-4d3c-86d7-3b6ff448c601,tiptop.vet,available,41.99,41.99,low,low,6,namesilo,,,
 8d7ab04f-eb42-4a21-ab05-58766ab70a85,bordered.vet,available,41.99,41.99,medium,low,8,namesilo,,,
-b8c68372-5189-4a35-bd9e-08d67ffb4e0a,alltime.vet,available,50.99,54.99,high,low,8,name.com,,,
+b8c68372-5189-4a35-bd9e-08d67ffb4e0a,alltime.vet,available,41.99,41.99,medium,low,8,namesilo,,,22/09/2026 00:54
 646f53ba-e733-4ea0-891d-1f35bff6c5e2,makegoodon.vet,available,41.99,41.99,high,low,12,namesilo,,,
 f66318d2-2583-4d84-b0fc-c11a61aefbf6,saintlike.vet,available,41.99,41.99,low,low,9,namesilo,,,
 d6397271-efcc-474d-a534-809e102b6699,anile.vet,available,41.99,41.99,low,low,5,namesilo,,,
@@ -279,7 +279,6 @@ baac4935-dad1-4017-b4b3-3ed131966b48,givethanks.vet,available,41.99,41.99,medium
 44cfd878-58cd-4f23-ac0e-6b12dd7f1c51,xci.vet,available,43.98,52.98,low,low,3,namecheap,,,
 9a18d96b-4898-4dfc-9ec4-1afbfe632b04,vitriolic.vet,available,41.99,41.99,low,low,9,namesilo,,,
 6466948a-6123-4d89-bc66-1dd3f75fd7e6,winover.vet,available,41.99,41.99,high,low,8,namesilo,,,
-844a58f2-95f2-49ae-a31f-597b710a9eeb,overseas.vet,available,50.99,54.99,medium,low,8,name.com,,,
 87beabf5-def4-451f-b271-5a65bc2ee1ca,appropriately.vet,available,50.99,,medium,low,13,name.com,,,
 1ea80d90-3677-419f-8195-84cefd015a7b,allwheeldrive.vet,available,41.99,41.99,high,low,15,namesilo,,,
 d5049e6e-7f03-437d-b3c7-c118a2b3e7b4,pamela.vet,available,41.99,41.99,high,low,6,namesilo,,,
@@ -302,7 +301,7 @@ fb5da3ae-781b-4c1a-8847-b69915c74ecc,basilar.vet,available,41.99,41.99,low,low,7
 5830377f-f6c2-4031-89e9-ffaeeaa0a6f1,delayed.vet,available,50.99,54.99,medium,low,7,name.com,,,
 385d5b26-b667-476c-998d-057894ffd480,alated.vet,available,41.99,41.99,low,low,6,namesilo,,,
 9ba1af9f-38f6-4d60-b077-375b0451346f,glittering.vet,available,41.99,41.99,low,low,10,namesilo,,,
-da2b6100-e01d-4a34-87fa-245dd1c109a4,teenager.vet,available,50.99,54.99,medium,low,8,name.com,,,
+da2b6100-e01d-4a34-87fa-245dd1c109a4,teenager.vet,available,50.99,54.99,low,low,8,name.com,,,21/09/2026 19:08
 75d2ec15-6047-42ee-93d0-bb859b4ad0ba,guilt.vet,available,50.99,,high,low,5,name.com,,,
 6cec2f3c-a1b3-4167-a00c-dc2416a14b92,deserter.vet,available,41.99,41.99,low,low,8,namesilo,,,06/08/2026 03:40
 e8d86ae7-9faf-4bd6-89a2-c5674717c7e1,banned.vet,available,41.99,41.99,low,low,6,namesilo,,,08/08/2026 13:44
@@ -371,7 +370,7 @@ e9745f78-9be2-48c6-b55d-4d8ff5ea9e84,appetising.vet,available,41.99,41.99,medium
 f6633c6c-9c98-442a-835b-62ad1d9da400,anorthic.vet,available,41.99,41.99,low,low,8,namesilo,,,
 2fc59576-809e-41c9-80f2-7da90c0187fa,welltimed.vet,available,41.99,41.99,low,low,10,namesilo,,,06/08/2026 10:13
 b5a95974-2ebb-4bf4-94ea-31be37d0e079,jacks.vet,available,41.99,41.99,medium,low,5,namesilo,,,
-455f6ab5-9fac-46f9-bd46-4e04e7bfa8c6,surrogate.vet,available,50.99,54.99,high,low,9,name.com,,,
+455f6ab5-9fac-46f9-bd46-4e04e7bfa8c6,surrogate.vet,available,41.99,41.99,low,low,9,namesilo,,,22/09/2026 02:27
 c55fc2ef-53b8-4109-9ad8-3cce2f4937bf,airsick.vet,available,43.98,52.98,low,low,7,namecheap,,,
 b35bc13d-78ba-4bd8-86f6-e5058f5f4a8d,marktwain.vet,available,41.99,41.99,high,low,10,namesilo,,,
 a0d5ea28-2de4-4e0d-8a9b-be4c9280bac0,greenpark.vet,available,41.99,41.99,medium,low,10,namesilo,,,
@@ -410,7 +409,7 @@ b89486b2-0a8d-462e-be33-a55d633b8d31,risen.vet,available,50.99,,medium,low,5,nam
 8775b74c-1c15-4a43-9a7d-b14a8c79d9a8,drivehome.vet,available,41.99,41.99,high,low,10,namesilo,,,
 1703290c-49c5-4e4b-8ef5-ae0241d1216d,oilpainting.vet,available,41.99,41.99,medium,low,12,namesilo,,,
 a1f10090-06ff-41ca-b0ea-6e2c864954b4,shrewd.vet,available,50.99,,medium,low,6,name.com,,,
-7c8d02af-b965-4b5b-bc77-016f508ac371,distant.vet,available,50.99,54.99,medium,low,7,name.com,,,
+7c8d02af-b965-4b5b-bc77-016f508ac371,distant.vet,available,41.99,41.99,low,low,7,namesilo,,,22/09/2026 02:03
 0d836194-0191-45bb-bf44-83d74abf25a5,barefoot.vet,available,41.99,41.99,low,low,8,namesilo,,,08/08/2026 18:54
 e0802703-1078-4eb9-99e4-711f1d85a81d,xxxiv.vet,available,41.99,41.99,low,low,5,namesilo,,,
 973a5d98-38bb-4b23-bf89-b7765d036c09,shears.vet,available,41.99,41.99,medium,low,6,namesilo,,,
@@ -469,21 +468,21 @@ aa3d16fd-1835-478a-a07c-3a1cfe4164f2,atonic.vet,available,41.99,41.99,low,low,6,
 f0efb1ab-9ad1-4ca9-9e59-c5dddbf6c0b1,arboriform.vet,available,41.99,41.99,low,low,10,namesilo,,,06/08/2026 13:39
 308e26a3-b93f-4f27-9111-6222a5898693,identifier.vet,available,41.99,41.99,high,low,10,namesilo,,,
 6d095106-e9bf-4676-9004-53f67cda74e2,blind.vet,available,41.99,41.99,medium,low,5,namesilo,,,
-8505395c-f8e2-47ec-accc-47411d7f4978,abovecited.vet,available,41.99,41.99,medium,low,11,namesilo,,,
+8505395c-f8e2-47ec-accc-47411d7f4978,abovecited.vet,available,41.99,41.99,low,low,11,namesilo,,,
 e52df43a-1a00-4ebb-a3d8-39c1d2d946ef,posting.vet,available,41.99,41.99,high,low,7,namesilo,,,
 90080c25-665e-4abd-8dcd-08268494e27a,girth.vet,available,41.99,41.99,high,low,5,namesilo,,,
 83abdc03-e665-4839-9dc2-a208c965fe5f,gate.vet,available,50.99,,high,low,4,name.com,,,
 ed4fc90c-052b-4f5d-8181-0a8a4b725f4e,idonotknowit.vet,available,41.99,41.99,medium,low,16,namesilo,,,
 07234199-a748-472a-8ce8-ab65e92fde24,nerd.vet,available,41.99,41.99,high,medium,4,namesilo,,,
 d3b9ccd1-e9cb-4907-a095-6c9ee3081e80,mixedgrill.vet,available,41.99,41.99,high,low,11,namesilo,,,
-e8fe36ad-61f8-4872-8790-84cd0bf3f7dd,activated.vet,available,50.99,54.99,high,low,9,name.com,,,
+e8fe36ad-61f8-4872-8790-84cd0bf3f7dd,activated.vet,available,41.99,41.99,medium,low,9,namesilo,,,21/09/2026 16:32
 285d3cf3-31d7-4bd6-b4b4-4a2937e048ce,miserable.vet,available,41.99,41.99,low,low,9,namesilo,,,
 2514d772-6084-4912-a499-3b7c6400f657,gothere.vet,available,41.99,41.99,medium,low,8,namesilo,,,
 be1440ac-3399-414f-bf6b-7ced5d610063,anserine.vet,available,41.99,41.99,low,low,8,namesilo,,,
 dbde037c-ca6e-48ad-a4ff-8c7cba68d566,fatal.vet,available,41.99,41.99,high,low,5,namesilo,,,
 5df1b7e0-5f37-4d5a-81be-2288788585d6,requested.vet,available,41.99,41.99,medium,low,9,namesilo,,,
 0ecb1c81-774f-4c0c-a2a6-0a884bc6ebec,seize.vet,available,50.99,54.99,medium,low,5,name.com,,,
-a9cc3299-8e9c-4de3-a9aa-ca179fddf580,abouteast.vet,available,50.99,,medium,low,10,name.com,,,
+a9cc3299-8e9c-4de3-a9aa-ca179fddf580,abouteast.vet,available,50.99,,low,low,10,name.com,,,
 04b0b8ea-de00-4f39-81f2-b4141ffc8be3,draggled.vet,available,41.99,41.99,low,low,8,namesilo,,,09/08/2026 07:33
 c155fb73-fb43-4ffd-ab3b-5e0c348f0bc3,gforce.vet,available,41.99,41.99,high,low,7,namesilo,,,
 d7b09640-8aed-40df-938a-acbbfc8dc884,competent.vet,available,50.99,54.99,high,low,9,name.com,,,
@@ -524,7 +523,7 @@ b6c6a58f-5322-4ec5-a7bb-36d140883849,sinners.vet,available,41.99,41.99,low,low,7
 96c4a538-9913-47e2-b67a-51252e8bce80,envious.vet,available,50.99,54.99,medium,low,7,name.com,,,
 11df85b2-f4d8-4e6d-b662-8d4a53d65deb,graywolf.vet,available,41.99,41.99,high,low,9,namesilo,,,
 be866652-b5c0-4ac2-af4c-b0162436dd7c,makegood.vet,available,41.99,41.99,high,low,9,namesilo,,,
-8fd23ce0-07fc-46d4-8d5f-db9c3a8841c7,staring.vet,available,50.99,54.99,medium,low,7,name.com,,,
+8fd23ce0-07fc-46d4-8d5f-db9c3a8841c7,staring.vet,available,41.99,41.99,low,low,7,namesilo,,,21/09/2026 22:19
 02c4d8b6-386d-4b85-a9c9-51a603e2b703,stranded.vet,available,41.99,41.99,medium,low,8,namesilo,,,
 34e0b76c-7421-446d-b5a9-eb462b5c1700,boer.vet,available,41.99,41.99,low,low,4,namesilo,,,
 5da4c292-4f91-4e19-9f54-5540591b05e7,aeronautic.vet,available,41.99,41.99,low,low,10,namesilo,,,
@@ -535,7 +534,7 @@ a798765e-cbfb-4d84-b967-aee0d8a03e0d,aftuh.vet,available,41.99,41.99,medium,low,
 47e5ca7b-3581-4af3-98a0-305a0d78f695,right.vet,available,50.99,54.99,high,low,5,name.com,,,
 80674297-61d5-4027-8391-b45ecf2668d4,batwing.vet,available,41.99,41.99,low,low,7,namesilo,,,09/08/2026 01:49
 0ed7c378-9853-4f21-bcf4-cd553b08d8db,wikimedia.vet,available,,,low,low,9,,,,
-1ba8750e-c73f-4c8a-8fd1-b72a390494f2,attendant.vet,available,50.99,54.99,high,low,9,name.com,,,
+1ba8750e-c73f-4c8a-8fd1-b72a390494f2,attendant.vet,available,43.98,52.98,medium,low,9,namecheap,,,21/09/2026 15:40
 08ff1872-2386-4426-82ac-fe0f58daced9,east.vet,available,50.99,54.99,high,low,4,name.com,,,
 a695e67f-cbf7-4410-970a-f6f4d37e6351,antithetic.vet,available,41.99,41.99,low,low,10,namesilo,,,05/08/2026 19:49
 7f208743-e95b-4126-a14e-adc09224072d,cook.vet,available,41.99,41.99,high,low,4,namesilo,,,
@@ -575,7 +574,7 @@ ec8c68e3-3353-4b42-ac20-3ae569d55fe2,luminous.vet,available,41.99,41.99,medium,l
 7738e929-d1b9-4447-bbd0-75a087af4727,pulled.vet,available,41.99,41.99,low,low,6,namesilo,,,
 134fdf87-5a35-4d7d-9ec3-a7ca4099f2fe,torn.vet,available,41.99,41.99,medium,low,4,namesilo,,,
 4cd64cd2-e535-4fbb-944e-694f31f9bd62,silverprint.vet,available,41.99,41.99,low,low,12,namesilo,,,
-6d670949-04f9-4f5b-a3ea-a3a6ca99c817,fond.vet,available,50.99,54.99,high,low,4,name.com,,,
+6d670949-04f9-4f5b-a3ea-a3a6ca99c817,fond.vet,available,41.99,41.99,medium,low,4,namesilo,,,21/09/2026 21:45
 43f30b0c-1c7f-4ab1-90ad-3eaa15707cf9,boston.vet,premium,1107,1107,high,low,6,namesilo,,,
 256f4a23-655d-440a-8b83-1a8d9bef00e5,hacking.vet,available,41.99,41.99,medium,low,7,namesilo,,,
 ca8115a2-6288-4b5e-9876-d8f404f0863a,musthave.vet,available,41.99,41.99,high,low,9,namesilo,,,
@@ -612,7 +611,7 @@ f7b7078c-f665-42d8-a766-4e9b7684f968,because.vet,available,41.99,41.99,high,low,
 2e2366f1-bb92-49f5-b495-5db7d61034f0,washing.vet,available,41.99,41.99,high,low,7,namesilo,,,
 419c8c70-7183-4add-b94b-f147a5bbf35c,christ.vet,available,41.99,41.99,high,low,6,namesilo,,,
 766e0eca-1b14-46f2-806b-2e2dd3a0a9b5,amphibious.vet,available,41.99,41.99,low,low,10,namesilo,,,
-3fe15111-6fa3-4526-9ffd-491ff7ff6dd3,wealthy.vet,available,50.99,54.99,high,low,7,name.com,,,
+3fe15111-6fa3-4526-9ffd-491ff7ff6dd3,wealthy.vet,available,41.99,41.99,medium,low,7,namesilo,,,21/09/2026 21:57
 da634fc0-463a-4a02-afeb-ff1d34b940a9,greenparty.vet,available,50.99,,medium,low,11,name.com,,,
 e8ce5878-f5b5-4211-a838-40b0df4ffb79,connected.vet,available,41.99,41.99,low,low,9,namesilo,,,19/09/2026 11:24
 3d3c5252-b132-43c8-be5a-a908d162aace,ascribable.vet,available,41.99,41.99,low,low,10,namesilo,,,07/08/2026 01:17
@@ -695,7 +694,7 @@ ce6e2cb5-b2b3-4ef5-9163-bfd29fa02eba,adducting.vet,available,41.99,41.99,low,low
 31419043-e6b6-46c2-bdfe-2b1c287e48a2,colonelsanders.vet,available,41.99,41.99,high,low,15,namesilo,,,
 2f38f219-1414-4150-bf34-e3e5f77cac50,poker.vet,available,41.99,41.99,high,medium,5,namesilo,,,
 a5a7f44c-d917-4fd7-a3ad-5c8078bd05f4,wrench.vet,available,41.99,41.99,medium,low,6,namesilo,,,
-85a4a50e-e22d-468f-9bec-94a429fa1892,adaptative.vet,available,50.99,54.99,high,low,10,name.com,,,
+85a4a50e-e22d-468f-9bec-94a429fa1892,adaptative.vet,available,41.99,41.99,medium,low,10,namesilo,,,21/09/2026 16:59
 ba5f45fa-af22-4322-8c4c-9974a796bb0f,canada.vet,available,,,high,low,6,,,,
 d6de3bc3-99a3-4abd-9d8a-f9e00fff0e04,jesuschrist.vet,available,50.99,,high,low,12,name.com,,,
 758c0fa4-f94c-4ada-938a-7ccf78ed4fef,buttony.vet,available,41.99,41.99,low,low,7,namesilo,,,09/08/2026 03:34
@@ -721,7 +720,7 @@ ae63ad79-e84b-47cf-8a05-e2f1ffc9d435,quivive.vet,available,41.99,41.99,low,low,8
 b54ad7be-16cf-48da-b8dd-7143a4a3aa3c,haywire.vet,available,43.98,52.98,low,low,7,namecheap,,,
 26676953-ecd8-4e41-aff4-6cba879a13d7,circinate.vet,available,41.99,41.99,low,low,9,namesilo,,,
 4ab03144-927e-4782-91e6-d1981ac220fc,constantly.vet,available,41.99,41.99,medium,low,10,namesilo,,,
-846d1e55-f7ac-481b-b5de-a39a99ae45d1,assisted.vet,available,50.99,54.99,medium,low,8,name.com,,,
+846d1e55-f7ac-481b-b5de-a39a99ae45d1,assisted.vet,available,41.99,41.99,low,low,8,namesilo,,,21/09/2026 23:41
 54584626-6d91-4761-a60e-ea4f613c3b13,provoking.vet,available,41.99,41.99,low,low,9,namesilo,,,
 3dd3a244-2174-44ff-94bb-c10e76211e96,gal.vet,available,41.99,41.99,medium,low,3,namesilo,,,
 0b4b4788-5e57-4758-b506-f3ee74f0e666,apologize.vet,available,41.99,41.99,high,low,9,namesilo,,,
@@ -739,7 +738,7 @@ e0ecf155-e020-4ee1-b3ab-4de504fb08c4,postaladdress.vet,available,41.99,41.99,med
 045cda1b-63ee-4cee-8814-6c5dc18e60ca,briery.vet,available,41.99,41.99,low,low,6,namesilo,,,08/08/2026 17:07
 c8d0077e-d003-487d-9290-8e6744818d9b,adhesive.vet,available,41.99,41.99,low,low,8,namesilo,,,
 6d1964d6-5073-4451-abef-4cce4abc3738,hardfeelings.vet,available,41.99,41.99,medium,low,13,namesilo,,,
-9994d084-5c06-408f-9da8-f91822dfd17e,additional.vet,available,50.99,54.99,high,low,10,name.com,,,
+9994d084-5c06-408f-9da8-f91822dfd17e,additional.vet,available,41.99,41.99,medium,low,10,namesilo,,,21/09/2026 17:14
 e261b5ea-bfab-4912-aab1-774a16c69865,bellyshirt.vet,available,50.99,,high,low,11,name.com,,,
 92ce42a6-e91f-45cd-b2b7-3c8f282df228,comeintoforce.vet,available,41.99,41.99,high,low,15,namesilo,,,
 62d0c2c5-bde2-4cd5-b93c-9190a3d2c7f9,whatisthat.vet,available,41.99,41.99,low,low,12,namesilo,,,
@@ -841,12 +840,11 @@ c1fba107-2d1f-4a6d-b1a4-d3572aad652e,torrid.vet,available,41.99,41.99,low,low,6,
 db40b62c-2d90-4ebb-9fde-bda248c0ef5f,newfound.vet,available,41.99,41.99,low,low,9,namesilo,,,08/09/2026 04:48
 2edc210b-dafc-4bce-8462-cdf420a62446,fling.vet,available,41.99,41.99,medium,low,5,namesilo,,,
 94abb4cc-9e3c-42bc-8028-fb3329259a4f,veal.vet,available,41.99,41.99,medium,low,4,namesilo,,,
-9bf20e1e-e250-49ab-a279-9746ac7e7d5a,senior.vet,resell,,,high,low,6,"GoDaddy.com, LLC",23/09/2015 20:06,23/09/2026 20:06,
 9ac2ec19-9fc7-4eca-b8fe-a85a5f34e492,england.vet,premium,242,242,high,low,7,namesilo,,,
 91ebdb33-a1be-404e-91c1-b6c6fadbe683,maledict.vet,available,41.99,41.99,low,low,8,namesilo,,,
-ee18e54f-00b6-40d9-a07e-a4a98f7a67c9,deep.vet,available,50.99,54.99,high,medium,4,name.com,,,
+ee18e54f-00b6-40d9-a07e-a4a98f7a67c9,deep.vet,available,41.99,41.99,low,low,4,namesilo,,,21/09/2026 15:15
 b3c9df80-18f1-4666-9192-f50479bc151f,freshaspaint.vet,available,41.99,41.99,medium,low,14,namesilo,,,
-1b2f0738-cadb-4da6-bdc0-822e8c65b191,twentieth.vet,available,50.99,54.99,high,low,9,name.com,,,
+1b2f0738-cadb-4da6-bdc0-822e8c65b191,twentieth.vet,available,41.99,41.99,medium,low,9,namesilo,,,21/09/2026 12:27
 efe4ebf8-fa61-49c7-86c9-793c825f74f4,barbellate.vet,available,41.99,41.99,low,low,10,namesilo,,,08/08/2026 16:57
 c548d661-34e6-48db-85c9-6b9bc0e1602d,coffeebreak.vet,available,41.99,41.99,high,low,12,namesilo,,,
 f65abfa4-c6a8-4207-9271-36aae35770f5,feels.vet,available,41.99,41.99,high,low,5,namesilo,,,
@@ -860,7 +858,7 @@ fda326b7-d45d-46e3-90a0-2c11f9910b63,mmr.vet,available,41.99,41.99,high,low,3,na
 f009ab64-5ab1-44ae-9aa4-a0260b86fa54,hackneyed.vet,available,41.99,41.99,low,low,9,namesilo,,,08/08/2026 10:56
 fbd609e7-8e8f-43f1-8205-77916d2cc0c7,thirdperson.vet,available,41.99,41.99,low,low,12,namesilo,,,
 c84ba58d-6073-4e24-9154-b9b28fc847ef,numb.vet,available,41.99,41.99,high,low,4,namesilo,,,
-991a30e7-927c-4f0a-b13e-d60cc8ea40f1,adolescent.vet,available,50.99,54.99,high,low,10,name.com,,,
+991a30e7-927c-4f0a-b13e-d60cc8ea40f1,adolescent.vet,available,43.98,52.98,medium,low,10,namecheap,,,21/09/2026 19:03
 e17e2920-7405-463b-bf3c-2359ad69a922,traveler.vet,available,41.99,41.99,medium,low,8,namesilo,,,
 5a131818-bea7-4616-b171-23b1d571a0bd,buried.vet,available,41.99,41.99,medium,low,6,namesilo,,,
 d305293a-2f58-45ff-ae25-e11e8d71082b,baseless.vet,available,41.99,41.99,low,low,8,namesilo,,,08/08/2026 21:44
@@ -888,7 +886,7 @@ e9b0443d-c1fc-4832-8e0f-0be0a7932574,formerly.vet,available,50.99,,medium,low,8,
 60ea2041-fc10-4dc6-828f-8be8a5aa8a85,repel.vet,available,41.99,41.99,high,low,5,namesilo,,,
 c746bfe7-a30d-4b42-95e8-57e44275f7ff,which.vet,available,,,medium,low,5,,,,
 142d1f1a-d4e6-4d69-939b-ae5e3a630eb8,jellybaby.vet,available,41.99,41.99,high,low,10,namesilo,,,
-78fa8e14-3205-4c68-aac0-176cd5fbf3ae,adoring.vet,available,50.99,54.99,high,low,7,name.com,,,
+78fa8e14-3205-4c68-aac0-176cd5fbf3ae,adoring.vet,available,41.99,41.99,medium,low,7,namesilo,,,21/09/2026 19:41
 3d484ac4-239a-4dd5-a95e-e95a99d4f152,oldschool.vet,available,41.99,41.99,high,low,10,namesilo,,,
 6fb7b49a-a06d-480a-a5bb-bc2f3adcb60b,forget.vet,available,41.99,41.99,medium,low,6,namesilo,,,
 925b451d-0c4c-48c1-95e5-d15c3fb3c82b,successes.vet,available,41.99,41.99,low,low,9,namesilo,,,
@@ -913,7 +911,7 @@ a3812ad5-883e-4aff-a54b-794d08a0990e,tilted.vet,available,41.99,41.99,low,low,6,
 83527239-a359-41d9-b8a6-e67b859b3a13,certain.vet,available,41.99,41.99,high,low,7,namesilo,,,
 683f604d-e33f-4973-a5c9-9f2832dc2d32,wakening.vet,available,41.99,41.99,high,low,8,namesilo,,,
 8ec33538-0173-4873-a373-0012e8603bd4,articled.vet,available,41.99,41.99,low,low,8,namesilo,,,06/08/2026 08:28
-61efbb47-f2aa-4b24-9a3d-1d31a6adaa37,accuser.vet,available,41.99,41.99,medium,low,7,namesilo,,,
+61efbb47-f2aa-4b24-9a3d-1d31a6adaa37,accuser.vet,available,41.99,41.99,low,low,7,namesilo,,,
 906fcb52-a106-4ec7-be59-86dbc7ae2683,quintuplet.vet,available,41.99,41.99,low,low,10,namesilo,,,
 687c10c3-8e8c-42b4-ae29-6a832c297732,dandy.vet,available,41.99,41.99,low,low,5,namesilo,,,08/08/2026 12:30
 388db44b-c057-420c-b30a-3869abd14ad3,manyisthetime.vet,available,50.99,,medium,low,16,name.com,,,
@@ -938,7 +936,7 @@ cc5a6175-e2f5-49aa-8ea8-ee92bff5e62f,blades.vet,available,41.99,41.99,medium,low
 241e6335-7dc6-43c3-9122-7878d4fb4d76,outdoor.vet,available,41.99,41.99,high,low,7,namesilo,,,
 d8714eb4-3f59-4639-a7d1-48f298d939c9,impractical.vet,available,41.99,41.99,medium,low,11,namesilo,,,
 f71db544-9268-4441-abad-c0d33bdac959,god.vet,available,41.99,41.99,high,medium,3,namesilo,,,
-7d3b8afa-f631-44d8-9310-56ae65d872fd,older.vet,available,50.99,54.99,medium,low,5,name.com,,,
+7d3b8afa-f631-44d8-9310-56ae65d872fd,older.vet,available,41.99,41.99,low,low,5,namesilo,,,21/09/2026 22:32
 fa657e1e-c22e-4db0-ae8b-faa442ac03e9,agonizing.vet,available,41.99,41.99,low,low,9,namesilo,,,
 4a042569-11c8-4990-9093-29bf0eeca541,mincepie.vet,available,50.99,,high,low,9,name.com,,,
 c2e74e07-4be2-423b-8368-3bf4c077481b,saytheword.vet,available,41.99,41.99,low,low,12,namesilo,,,
@@ -951,7 +949,7 @@ f926ed49-d697-4042-ba7b-2ecd2d0dcf1f,generalpurpose.vet,available,41.99,41.99,me
 194c9180-eff3-44c1-8b66-7b3a4a42df63,perspective.vet,available,41.99,41.99,high,low,11,namesilo,,,
 0ebfbaed-a76a-41de-af9f-9cf1333be23a,omega.vet,available,,,high,low,5,,,,
 c0185603-e02b-43ee-aba9-0cef79379fff,dishout.vet,available,41.99,41.99,high,low,8,namesilo,,,
-fc41114a-51a8-48f2-af5f-f26ff4525dbe,backbone.vet,available,41.99,41.99,medium,low,9,namesilo,,,
+fc41114a-51a8-48f2-af5f-f26ff4525dbe,backbone.vet,available,43.98,52.98,medium,low,9,namecheap,,,21/09/2026 15:14
 3bfdcaf5-21af-4137-9f1c-498f7274b124,irritable.vet,available,41.99,41.99,medium,low,9,namesilo,,,
 ed394958-47d5-4342-b09a-f01e685ba6a7,bloodflow.vet,available,50.99,,high,low,10,name.com,,,
 14dda13f-8521-4a1f-ab60-f7087b6ad77f,beady.vet,available,41.99,41.99,low,low,5,namesilo,,,09/08/2026 03:23
@@ -964,7 +962,7 @@ add1248e-0236-448f-9b11-2c017ba85d31,define.vet,available,50.99,54.99,high,low,6
 4aaf4954-981a-43a8-8af1-6336ee6d4bdf,covid.vet,available,41.99,41.99,high,low,5,namesilo,,,
 33a399b2-b3f8-44ff-bf31-46a4021c07cf,changes.vet,available,41.99,41.99,medium,low,7,namesilo,,,
 c4ef1488-1ec4-4101-9b62-a44f4e105493,seven.vet,available,41.99,41.99,low,medium,5,namesilo,,,
-d25f2963-1f81-4e13-9837-b226b9a2dea1,realizable.vet,available,50.99,54.99,high,low,10,name.com,,,
+d25f2963-1f81-4e13-9837-b226b9a2dea1,realizable.vet,available,41.99,41.99,medium,low,10,namesilo,,,21/09/2026 15:51
 348fdee9-2814-4c74-a8e1-daccd17e5aec,talkabout.vet,available,41.99,41.99,medium,low,10,namesilo,,,
 f6ec2e94-89a2-4c3f-87cb-ecdbc4f28b9c,godhead.vet,available,41.99,41.99,low,low,7,namesilo,,,
 83136bb4-ebb2-45f4-98c6-33219e11baee,cheated.vet,available,41.99,41.99,medium,low,7,namesilo,,,
@@ -999,3 +997,5 @@ bd43f182-313e-4b9c-9e8f-6d4648c8b572,stmoritz.vet,available,41.99,41.99,medium,l
 d6463761-71b6-4186-8cf8-caadb7c89ffa,aligning.vet,available,41.99,41.99,low,low,8,namesilo,,,
 93f99573-674f-4b1a-b940-963a6201debb,prompting.vet,available,41.99,41.99,medium,low,9,namesilo,,,
 0377f3ad-7038-40a6-9017-217bb9034671,knowwhat.vet,available,41.99,41.99,medium,low,9,namesilo,,,
+87be5075-d81a-4c8c-99f5-d12b35b5f88a,insteadof.vet,available,41.99,41.99,medium,low,10,namesilo,,,
+dda9c82b-b61b-4f79-b7ca-25be6048c0eb,oldage.vet,available,41.99,41.99,low,low,7,namesilo,,,
