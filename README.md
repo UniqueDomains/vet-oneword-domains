@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vet one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,238 domains · **Median ask:** $47.33 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/vet`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| something.vet | available | $50.99    | —             | high           | low    | 9      | name.com                   |
-| btw.vet       | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
-| auto.vet      | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                |
-| add.vet       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| dry.vet       | available | $50.99    | $54.99        | high           | low    | 3      | name.com                   |
-| katy.vet      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
-| bce.vet       | premium   | $35.40    | $35.40        | medium         | low    | 3      | namesilo                   |
-| dvd.vet       | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
-| express.vet   | resell    | —         | —             | high           | low    | 7      | Squarespace Domains II LLC |
-| dad.vet       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                   |
-| ego.vet       | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo                   |
-| ice.vet       | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo                   |
-| gal.vet       | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo                   |
-| ink.vet       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                   |
-| god.vet       | available | $41.99    | $41.99        | high           | medium | 3      | namesilo                   |
-| kid.vet       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
-| hug.vet       | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
-| law.vet       | premium   | $780      | $780          | high           | medium | 3      | namecheap                  |
-| jot.vet       | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
-| map.vet       | premium   | $520      | $520          | high           | medium | 3      | namecheap                  |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| btw.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| auto.vet    | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                |
+| add.vet     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| dry.vet     | available | $50.99    | $54.99        | high           | low    | 3      | name.com                   |
+| katy.vet    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
+| bce.vet     | premium   | $35.40    | $35.40        | medium         | low    | 3      | namesilo                   |
+| dvd.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| express.vet | resell    | —         | —             | high           | low    | 7      | Squarespace Domains II LLC |
+| dad.vet     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                   |
+| ego.vet     | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo                   |
+| ice.vet     | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo                   |
+| gal.vet     | available | $41.99    | $41.99        | medium         | low    | 3      | namesilo                   |
+| ink.vet     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                   |
+| god.vet     | available | $41.99    | $41.99        | high           | medium | 3      | namesilo                   |
+| kid.vet     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| hug.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| law.vet     | premium   | $780      | $780          | high           | medium | 3      | namecheap                  |
+| jot.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
+| map.vet     | premium   | $520      | $520          | high           | medium | 3      | namecheap                  |
+| llp.vet     | available | $41.99    | $41.99        | high           | low    | 3      | namesilo                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VET One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VET One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
