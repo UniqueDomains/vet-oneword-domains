@@ -1,10 +1,10 @@
-# Available .VET One-Word Domains (23,368)
+# Available .VET One-Word Domains (23,905)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C368%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C905%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .vet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,368 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,905 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,368 domains · **Median ask:** $49.48 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 23,905 domains · **Median ask:** $49.43 · **High-demand under $2,500:** 4
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/vet`
@@ -65,6 +65,7 @@ print(df.head())
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | ade.vet   | available | $43.98    | $52.98        | high           | low    | 3      | namecheap |
+| fetch.vet | resell    | —         | —             | high           | low    | 5      | —         |
 | hot.vet   | premium   | $35.40    | $35.40        | high           | medium | 3      | namesilo  |
 | ago.vet   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
 | law.vet   | premium   | $780      | $780          | high           | medium | 3      | namecheap |
@@ -77,13 +78,12 @@ print(df.head())
 | bop.vet   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
 | toy.vet   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo  |
 | dip.vet   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
-| toys.vet  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
+| yao.vet   | premium   | $54.36    | $108.60       | medium         | low    | 3      | porkbun   |
 | hdl.vet   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
-| trip.vet  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo  |
+| toys.vet  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
 | ibn.vet   | available | $50.99    | $54.99        | medium         | low    | 3      | name.com  |
-| hindu.vet | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo  |
+| trip.vet  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo  |
 | kay.vet   | available | $41.99    | $41.99        | high           | low    | 3      | namesilo  |
-| lagos.vet | premium   | $108.90   | $108.90       | high           | low    | 5      | dynadot   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,368 live domains                        |
+| 1,000-row public sample | 23,905 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
